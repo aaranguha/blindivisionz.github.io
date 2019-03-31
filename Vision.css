@@ -1,0 +1,83 @@
+body {
+	background: url("https://www.kiplinger.com/kipimages/pages/15311.jpg");
+	background-size: 100%;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+#title1{
+	font-size: 60px;
+	color: black;
+	text-align: center;
+  padding: 10px 30px 25px 10px;
+	background-color:#000000;
+	background-size: 250%;
+	background-position: right;
+	border-radius: 35px;
+	margin: 45px auto;
+	display: block;
+	width: 50%;
+	height: 10%;
+	font-size: 60px;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	transition-duration: 1.25s;
+}
+
+#title1:hover{
+	background-position: center;
+	color:red;
+}
+#box2{
+	color: white;
+	text-align: center;
+	font-size: 23px;
+}
+#link1{
+	font-size: 60px;
+	color: black;
+	text-align: center;
+  padding: 7px 10px 10px 7px;
+	background-color:#000000;
+	background-size: 250%;
+	background-position: right;
+	border-radius: 35px;
+	margin: 45px auto;
+	display: block;
+	width: 15%;
+	height:10%;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	transition-duration: 1.25s;
+}
+#link1:hover{
+	background-position: center;
+	color:red;
+}
+
+#link2{
+	font-size: 60px;
+	color: black;
+	text-align: center;
+  padding: 7px 10px 10px 7px;
+	background-color:#000000;
+	background-size: 250%;
+	background-position: right;
+	border-radius: 35px;
+	margin: 45px auto;
+	display: block;
+	width: 15%;
+	height:10%;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	transition-duration: 1.25s;
+}
+#link2:hover{
+	background-position: center;
+	color:red;
+}
